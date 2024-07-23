@@ -82,6 +82,9 @@ try:
       print('You missed every single question. Better luck next time!')
   
     input('Press ENTER to try again, or hit Ctrl C to quit.')
+    print()
+    print()
+    print()
 
 except:
   print('\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t Thanks for playing!')
